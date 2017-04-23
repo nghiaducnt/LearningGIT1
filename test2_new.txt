@@ -2,3 +2,4 @@
 2> first commit
 3> second commit
 4> third commit new feature
+5> forth commit new feature master
